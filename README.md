@@ -4,7 +4,8 @@ Hi there, I'm Yulia 👋
 - 🤔 I'm looking for help with finding more time in a single day
 
 [![YuliaPelia's GitHub | Languages Over Time](https://stats.quira.sh/YuliaPelia/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=YuliaPelia)
-![GitHub Snake](https://github.com/YuliaPelia/YuliaPelia/raw/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuliaPelia&theme=react-dark)
+
 
 
 <!--
