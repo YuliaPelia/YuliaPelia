@@ -3,7 +3,7 @@ Hi there, I'm Yulia 👋
 - 🌱 I’m currently studying everything I need to bring my ideas to life
 - 🤔 I'm looking for help with finding more time in a single day
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliaPelia&layout=compact)
+[![YuliaPelia's GitHub | Languages Over Time](https://stats.quira.sh/YuliaPelia/languages-over-time?theme=dark)]
 
 <!--
 **YuliaPelia/YuliaPelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
