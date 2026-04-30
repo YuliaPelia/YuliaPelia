@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.webp" alt="banner" width="100%"  />
+  <img src="./animated_glitch_banner.gif" alt="banner" width="100%"  />
 </p>
 
 
