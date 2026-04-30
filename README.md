@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://www.dropbox.com/scl/fi/16opeyfd755iisno8hbq1/ChatGPT-Image-Apr-30-2026-10_01_57-PM.png?rlkey=kv11jjfjzw2pqhhf9sgho1vl4&st=7cnwc2t6&dl=0" alt="banner" width="100%" />
+</p>
+
+
 Hi there, I'm Yulia 👋
 - 🔭 I’m currently working on various projects to improve my skills
 - 🌱 I’m currently studying everything I need to bring my ideas to life
