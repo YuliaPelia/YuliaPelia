@@ -6,6 +6,12 @@
 Frontend Engineer • React / Next.js • UI/UX lover  
 </p>
 
+<p align="center">
+  🚀 <a href="https://peliachyk-yulia-portfolio.vercel.app/en/" target="_blank">
+  View My Portfolio
+  </a>
+</p>
+
 ## 🧠 System Info
 
 ```bash
