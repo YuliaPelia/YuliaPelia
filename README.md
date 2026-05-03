@@ -33,6 +33,8 @@ Frontend Engineer • React / Next.js • UI/UX lover
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yulia-peliachyk-bba6a7251/">Linkedin</a>
+    <a href="https://t.me/yulchiksss">Telegram</a>
+    <a href="https://www.instagram.com/yulchik.peekaboo/">Instagram</a>
 </p>
 
 <p align="center">
