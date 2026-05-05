@@ -32,12 +32,15 @@ Frontend Engineer • React / Next.js • UI/UX lover
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yulia-peliachyk-bba6a7251/"           target="_blank"
-          rel="noopener noreferrer">Linkedin</a>
-    <a href="https://t.me/yulchiksss"           target="_blank"
-          rel="noopener noreferrer">Telegram</a>
-    <a href="https://www.instagram.com/yulchik.peekaboo/"           target="_blank"
-          rel="noopener noreferrer">Instagram</a>
+  <a href="https://www.linkedin.com/in/yulia-peliachyk-bba6a7251/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20Hire%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/yulchiksss" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20Text%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yulchik.peekaboo/" target="_blank">
+    <img src="https://img.shields.io/badge/📸%20See%20More-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
