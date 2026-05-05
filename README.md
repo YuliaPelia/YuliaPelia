@@ -5,7 +5,11 @@
 <p align="center">
 Frontend Engineer • React / Next.js • UI/UX lover  
 </p>
-
+<p align="center">
+  <a href="https://portfolio-peliachyk-yulia.vercel.app/en/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=🚀%20VIEW%20PORTFOLIO&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+  </a>
+</p>
 
 
 ## 🧠 System Info
