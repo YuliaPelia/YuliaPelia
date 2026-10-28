@@ -22,7 +22,7 @@ Frontend Engineer • React / Next.js • UI/UX lover
 
 ```bash
 > role: Frontend Engineer
-> experience: 3+ years
+> experience: 4+ years
 > stack: React, Next.js, TypeScript
 > focus: Performance & UI
 > mission: Build products that people actually enjoy using
