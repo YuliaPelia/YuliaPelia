@@ -1,4 +1,10 @@
-  <img src="./Cozy_Halloween_Coding_Night.png" alt="banner" width="80%" style="display: block; margin: 0 auto"  />
+<div align="center">
+  <img
+    src="./Cozy_Halloween_Coding_Night.png"
+    alt="Code. Create. Inspire."
+    width="60%"
+  />
+</div>
 
 <h1 align="center">Hey, I'm Yulia — I turn caffeine into clean UI ✨</h1>
 
