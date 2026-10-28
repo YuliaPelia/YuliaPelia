@@ -2,7 +2,7 @@
   <img
     src="./Cozy_Halloween_Coding_Night.png"
     alt="Code. Create. Inspire."
-    width="60%"
+    width="40%"
   />
 </div>
 
