@@ -21,7 +21,7 @@ Full-stack Engineer • React / Next.js • UI/UX lover
 ## 🧠 System Info
 
 ```bash
-> role: Frontend Engineer
+> role: Full-stack Engineer
 > experience: 4+ years
 > stack: React, Next.js, TypeScript
 > focus: Performance & UI
