@@ -9,7 +9,7 @@
 <h1 align="center">Hey, I'm Yulia — I turn caffeine into clean UI ✨</h1>
 
 <p align="center">
-Frontend Engineer • React / Next.js • UI/UX lover  
+Full-stack Engineer • React / Next.js • UI/UX lover  
 </p>
 <p align="center">
   <a href="https://portfolio-peliachyk-yulia.vercel.app/en/" target="_blank">
